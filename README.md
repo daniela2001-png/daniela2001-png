@@ -16,6 +16,7 @@
 	- CSS :white_check_mark:
 	- React :white_check_mark:
 	- SQL :white_check_mark:
+	- Flask :white_check_mark:
 - **Shell Scripting**
 
 
