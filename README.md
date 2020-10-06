@@ -48,6 +48,7 @@
   <img align="center" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> 
  </a>
   <br/>
+	[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
  <br/>
   Thanks for stopping by 😁<br/>
 </p>
