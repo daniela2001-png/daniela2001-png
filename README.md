@@ -6,11 +6,11 @@
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Python ❤️
+	- TypeScript
 	- C 
 	- JavaScript
-
-
-
+	- Node.js
+	
 - **Web Development**
 	- HTML :white_check_mark:
 	- CSS :white_check_mark:
