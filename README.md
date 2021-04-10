@@ -6,7 +6,6 @@
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- Python ❤️
-	- TypeScript
 	- C 
 	- JavaScript
 	- Node.js
@@ -15,8 +14,10 @@
 	- HTML :white_check_mark:
 	- CSS :white_check_mark:
 	- React :white_check_mark:
-	- SQL :white_check_mark:
+	- SQL/SQlAlchemy :white_check_mark:
 	- Flask :white_check_mark:
+	- Express :white_check_mark:
+	- MongoDB(NoSQL) :white_check_mark:
 - **Shell Scripting**
 
 
