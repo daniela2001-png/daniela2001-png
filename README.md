@@ -17,7 +17,7 @@
 	- SQL/SQlAlchemy :white_check_mark:
 	- Flask :white_check_mark:
 	- Express :white_check_mark:
-	- MongoDB(NoSQL) :white_check_mark:
+	- MongoDB(NoSQL) /mongoose(ODM) :white_check_mark:
 - **Shell Scripting**
 
 
