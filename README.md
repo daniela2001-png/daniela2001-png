@@ -1,7 +1,8 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
 <em>Hello, my name is Daniela Morales, currently studying at the <a href="https://www.holbertonschool.com/"><b>Holberton School Academy</b></a>. I am a full-stack software developer. I like to program in python3 and javascript. and passionate about learning more and teamwork every day firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
-<img align="right" src="https://media.giphy.com/media/fAnzw6YK33jMwzp5wp/giphy.gif"/>
+
+![daniela morales full stack developer (1)](https://user-images.githubusercontent.com/58857379/115967299-83cc1700-a4f7-11eb-98e3-459c13dcb851.gif)
 
 ## Ask me about :computer: 
 - **Competitive Programming**
