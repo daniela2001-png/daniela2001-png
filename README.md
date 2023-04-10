@@ -20,7 +20,6 @@
 	- Flask :white_check_mark:
 	- Express :white_check_mark:
 	- MongoDB(NoSQL) /mongoose(ODM) :white_check_mark:
-- **Shell Scripting**
 
 
 <code><a href="https://github.com/daniela2001-png/holbertonschool-higher_level_programming" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
