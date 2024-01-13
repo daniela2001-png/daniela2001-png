@@ -1,5 +1,5 @@
 ### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
-<em>Hello, my name is Daniela Morales, currently studying **data science engineering** at the <a href="https://www.ibero.edu.co/"><b>Ibeoamerican University</b></a>. I am a software developer. I like to program in Python, Golang and Javascript. and passionate about learning more and teamwork every day firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
+<em>Hello, my name is Daniela Morales, currently studying **data science engineering** at the <a href="https://www.ibero.edu.co/"><b>Ibeoamerican University</b></a>. I am a software engineer. I like to program in Python, Golang and Javascript. and passionate about learning more and teamwork every day firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 
 ![daniela morales full stack developer (1)](https://user-images.githubusercontent.com/58857379/115967299-83cc1700-a4f7-11eb-98e3-459c13dcb851.gif)
