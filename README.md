@@ -28,8 +28,7 @@
   	- BigQuery :white_check_mark:
    	- AWS DynamoDB :white_check_mark:
    	- Google Cloud Storage :white_check_mark:
-   	- Docker :white_check_mark: <img src="https://github.com/user-attachments/assets/3dea5b9e-1cfd-438d-8d98-b75cfb959705" width="25" height="25">
-
+   	- Docker :white_check_mark:
 
 <code><a href="https://github.com/daniela2001-png/holbertonschool-higher_level_programming" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://github.com/daniela2001-png/rss_aggregator_project" target="_blank"><img height="50" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></a></code>
