@@ -6,8 +6,8 @@
 
 ## Ask me about :computer: 
 - **Competitive Programming** 
-	- **Python** <img src="https://github.com/user-attachments/assets/aa23d371-16d9-4c82-b27d-5dedf2f89f5e" width="50" height="50">
-  	- **Golang** <img src="https://github.com/user-attachments/assets/2c528b25-dcc1-4ef5-9a76-38f3ce53e882" width="50" height="50">
+	- **Python** <img src="https://github.com/user-attachments/assets/aa23d371-16d9-4c82-b27d-5dedf2f89f5e" width="20" height="20">
+  	- **Golang** <img src="https://github.com/user-attachments/assets/2c528b25-dcc1-4ef5-9a76-38f3ce53e882" width="20" height="20">
 	- C 
 	- JavaScript
 	- Node.js
