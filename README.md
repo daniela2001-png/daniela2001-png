@@ -7,7 +7,7 @@
 ## Ask me about :computer: 
 - **Competitive Programming**
 	- **Python** ❤️
- 	- - **Golang** 	 
+ 	- - **Golang** :golang: 
 	- C 
 	- JavaScript
 	- Node.js
