@@ -5,19 +5,20 @@
 ![daniela morales full stack developer (1)](https://user-images.githubusercontent.com/58857379/115967299-83cc1700-a4f7-11eb-98e3-459c13dcb851.gif)
 
 ## Ask me about :computer: 
-- **Competitive Programming**
-	- **Python** ❤️
- 	- - **Golang** :golang: 
+- **Competitive Programming** 
+	- **Python** ![python](https://github.com/user-attachments/assets/aa23d371-16d9-4c82-b27d-5dedf2f89f5e)
+ 	- **Golang** ![golang](https://github.com/user-attachments/assets/2c528b25-dcc1-4ef5-9a76-38f3ce53e882)
 	- C 
 	- JavaScript
 	- Node.js
 	
 - **Web Development**
+  	- Flask :white_check_mark:
+  	- Gin (Golang framework) :white_check_mark:
 	- HTML :white_check_mark:
 	- CSS :white_check_mark:
 	- React :white_check_mark:
 	- SQL/SQlAlchemy :white_check_mark:
-	- Flask :white_check_mark:
 	- Express :white_check_mark:
 	- MongoDB(NoSQL) /mongoose(ODM) :white_check_mark:
  
