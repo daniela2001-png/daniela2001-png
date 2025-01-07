@@ -2,8 +2,8 @@
 <em>I'm Daniela Morales, a software engineer with over four years of experience in building scalable systems and big data pipelines. Proficient in Python and Golang, I specialize in designing architectures and collaborating across teams to drive successful outcomes. I'm **seeking** **new opportunities** to apply my technical skills and problem-solving abilities in dynamic roles that offer growth and impactful challenges, every day firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 
-![daniela morales software engineer (1)](https://github.com/user-attachments/assets/97f6dc22-d869-4776-9c35-ea32cb20b07a)
 
+![daniela morales software engineer (1)](https://github.com/user-attachments/assets/7583fe1b-4dd2-460e-8ed0-a944317e83f4)
 
 
 ## Ask me about :computer: 
