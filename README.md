@@ -39,8 +39,8 @@
 <br/><br/>
 
 ## 🔭 I’m currently working on ...
-- **Creating a data engineering project using Docker, SQL, dbt, Airflow, CRON, and Airbyte to manage, transform, and integrate data efficiently through pipelines and workflow orchestration."**
-- **Creating a tech blog RSS Aggregator using Golang, PostgreSQL, sqlc and goose using concurrency.**
+- **Creating a data engineering project using Docker, SQL, dbt, Airflow, CRON, and Airbyte to manage, transform, and integrate data efficiently through pipelines and workflow orchestration**
+- **Creating a tech blog RSS Aggregator using Golang, PostgreSQL, sqlc and goose using concurrency**
 
 ## 🌱 I’m currently learning ...
 - **Data Science**
