@@ -35,7 +35,7 @@
 <code><a href="https://github.com/daniela2001-png/holbertonschool-higher_level_programming" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
 <code><a href="https://github.com/daniela2001-png/rss_aggregator_project" target="_blank"><img height="50" src="https://go.dev/blog/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"></a></code>
 <code><a href="https://github.com/daniela2001-png/REACT-APP" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
-<code><a href="https://github.com/daniela2001-png/JAVASCRIPT" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
+<code><a href="https://github.com/daniela2001-png/KIWI_DASH" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></a></code>
 <br/><br/>
 
 ## 🔭 I’m currently working on ...
